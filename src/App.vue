@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <Header title="Meu Site"></Header>
+    <Header title="Dog Dev"></Header>
     
     <RouterView />
 
@@ -15,5 +15,5 @@ import { RouterView } from 'vue-router'
 </script>
 
 <style>
-/* Estilos globais */
+
 </style>

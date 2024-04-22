@@ -1,6 +1,6 @@
 <template>
     <footer>
-      <p>&copy; 2024 Seu Site. Todos os direitos reservados.</p>
+
     </footer>
   </template>
   
